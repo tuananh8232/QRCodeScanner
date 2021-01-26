@@ -10,3 +10,13 @@
 ### Mô tả Giao diện ứng dụng
 
 ![Screenshot 2021-01-26 230308](https://user-images.githubusercontent.com/77380800/105870320-bb2b4480-602a-11eb-8b0b-21de030140d8.png)
+
+### Yêu cầu thiết bị
+
+Các thiết bị Android phiên bảm 4.2.x trở lên, có hệ thống phần cứng(Camera).
+
+### Thư viện sử dụng và công nghệ
+
+- [**ZXing**](https://github.com/zxing/zxing/)
+- [**Room**](https://developer.android.com/jetpack/androidx/releases/room)
+- [**Admob**](https://developers.google.com/admob/android/sdk)
