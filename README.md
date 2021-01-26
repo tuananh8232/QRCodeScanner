@@ -13,10 +13,24 @@
 
 ### Yêu cầu thiết bị
 
-Các thiết bị Android phiên bảm 4.2.x trở lên, có hệ thống phần cứng(Camera).
+- Các thiết bị Android phiên bảm 4.2.x trở lên
 
+- Min SDK 17
+
+- Target SDk 28
+
+- Android Studio 4.1.1
+
+- Gradle 4.1.1
 ### Thư viện sử dụng và công nghệ
 
+- Ngôn ngữ: java
+- Database: Room
 - [**ZXing**](https://github.com/zxing/zxing/)
 - [**Room**](https://developer.android.com/jetpack/androidx/releases/room)
 - [**Admob**](https://developers.google.com/admob/android/sdk)
+- Và một số thư viện khác
+### Video Demo
+
+- [**Link**](https://drive.google.com/file/d/11Rek0E6RTrfS7WZ7kyKImSDPpWmd91_R/view?usp=sharing)
+
