@@ -5,7 +5,10 @@
 
 ### Chức năng
 
-Ứng dụng cho phép người dùng quét, tạo mã QR Code bằng Camera của điện thoại. Cung cấp giao diện dễ sử dụng. Dễ dàng thực hiện thao tác điều khiển các chức năng.
+- Quét, tạo mã QR Code bằng Camera của điện thoại
+- Lưu thông tin các mã đã quét.
+- Lưu, chia sẻ mã đã tạo bằng nhiều cách
+- Cung cấp giao diện dễ sử dụng. Dễ dàng thực hiện thao tác điều khiển các chức năng.
 
 ### Mô tả Giao diện ứng dụng
 
@@ -34,3 +37,6 @@
 
 - [**Link**](https://drive.google.com/file/d/11Rek0E6RTrfS7WZ7kyKImSDPpWmd91_R/view?usp=sharing)
 
+### Tác giả
+
+Lê Tuấn Anh - 18520450 [18520450@gm.uit.edu.vn](mailto:18520450@gm.uit.edu.vn?subject=[Github]%20QR%20Scanner%20App)
